@@ -38,7 +38,7 @@ def result(user:str, comp:str) :
     else :
         print('Both chose same. Draw!!!')
 
-#to read input user
+#to read input user as a seperate funtion
 def read(msg: str)->str :
     return input(msg+'\n')
 

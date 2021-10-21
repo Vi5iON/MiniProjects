@@ -1,4 +1,4 @@
-*******************Rock, paper or scissor*********************
+************************Rock, paper or scissor**************************
 
 These are three types of code written for 'rock, paper or scissor' game.
 
