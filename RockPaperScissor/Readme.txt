@@ -3,6 +3,7 @@
 These are three types of code written for 'rock, paper or scissor' game.
 
 Classifying them into 2 types:
+------------------------------
 1. Rock_Paper_Sci_if
 2. Rock_Paper_Sci and Rock_Paper_Sci_new
 
@@ -10,12 +11,14 @@ The major difference between two types is one is generic version which use if st
 and the other uses dictionaries to simplfy usage of if statments(2) to test win senarios.
 
 (1) Rock_Paper_Sci_if
+----------------------
 This code accepts a user input and randoms a computer input.
 These inputs are nothing but choices of the players.
 These inputs are then compared using multiple if statments to check different senarios and provide
 results.
 
 (2) Rock_Paper_Sci and Rock_Paper_Sci_new
+-----------------------------------------
 This code uses the below table.
  
 Table for game results.
